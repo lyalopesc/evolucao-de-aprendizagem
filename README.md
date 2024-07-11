@@ -11,5 +11,5 @@ Repositório destinado aos desafios de carreira do bootcamp de [Desenvolvimento 
 
 <br>
 
-#### Links para matriz de cada módulo:
+#### 〰️ Links para matriz de cada módulo:
 - [Modulo 02](modulo-02/README-02.md)
