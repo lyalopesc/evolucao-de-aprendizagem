@@ -50,4 +50,15 @@
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
-- Será preenchido ao finalizar o módulo.
+#### Aprofundamento em Lógica
+
+- *Funções*: São blocos de código independentes e personalizáveis, que podem retornar valores ou executar tarefas a serem utilizadas de diversas formas.
+- *Tipos de dados*: identificação de cada tipo de dado, muito utilizados na tipagem do Typescript, a fim de informar e evitar possíveis erros no código.
+- *Tipos Utilitários*: Manipulam tipos já existentes, facilitando a construção do código, além de deixar o código mais limpo.
+- *Métodos de arrays/Métodos de strings*: Métodos são funções nativas da linguagem, afim de facilitar a manipulação e transformação de strings e arrays, trazendo eficiência e legibilidade ao código.
+
+#### Carreira
+
+- *Metodologias ágeis*: Projetos não são construídos de forma global, ele é planejado em etapas, com pequenas entregas durante o processo. Ser ágil é garantir um bom planejamento e eficiência na construção do projeto. A utilização de metodologias ágeis e ferramentas, como Scrum e Kanban, trazem a organização necessária para os times alinharem todas etapas e tarefas prioritárias.
+- *Documentação*: Explicam o funcionamento de um software, ou processos de uma empresa. Auxiliam a solucionar problemas de forma rápida, além de permitir o aprendizado constante dos desenvolvedores. Além disso, é importante documentar os processos de um projeto, auxiliando outros profissionais a entenderem o projeto futuramente.
+- *Diversidade*: A tecnologia existe para facilitar a vida do ser humano. Somos uma sociedade diversa, e com isso é importante ter pessoas com variados tipos de experiências pessoais como funcionários de empresas de tecnológica, para desenvolver soluções cada vez melhores e inclusivas.
